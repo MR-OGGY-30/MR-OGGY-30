@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MR-OGGY-30
 - 👀 I’m interested in ... Coding,web development etc.
-- 🏫 Studying in ... IIT.
+- 🏫 Studying in ... .
 - 🌱 I’m currently learning ... Python,C++,web development.
 - 📫 How to reach me ...gmail - adhikaryutsa.30@gmail.com
 
