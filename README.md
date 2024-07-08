@@ -17,4 +17,4 @@ I am a school student of [JNV BANKURA](https://en.m.wikipedia.org/wiki/Jawahar_N
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-OGGY-30)
 ![image](https://github-readme-stats.vercel.app/api?username=MR-OGGY-30)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-OGGY-30&theme=vue)
-![image](https://activity-graph.herokuapp.com/graph?username=MR-OGGY-30&theme=minimal)
+
